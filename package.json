@@ -1,0 +1,9 @@
+{
+  "name": "bingo_aluche",
+  "version": "1.0.0",
+  "description": "Bingo 4 aluche",
+  "main": "index.js",
+  "repository": "git@github.com:abcerrar/bingo.git",
+  "author": "abcerrar <70103837+abcerrar@users.noreply.github.com>",
+  "license": "MIT"
+}
